@@ -22,7 +22,7 @@
 
 ### 博客
 
-[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+1，[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 
 <br>
 
@@ -30,11 +30,7 @@
 
 ### 书籍
 
-[JavaScript The Definitive 7th](./books/OReilly.JavaScript.The.Definitive.Guide.7th.Edition.2020.5)
 
-[你所不知道的 JavaScript](./books/你所不知道的JavaScript)
-
-[浏览器工作原理与实践](./books/浏览器工作原理与实践)
 
 <br>
 
@@ -58,7 +54,7 @@
 
 ### 其他
 
-[一行代码](./oneLineCode/)
+1，[一行代码](./oneLineCode/)
 
 [More...](./other/README.md)
 
