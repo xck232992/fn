@@ -2,5 +2,5 @@
 
 <br>
 
-1，[以太坊](./ethereum.md)
+1，[以太坊](./wealth/ethereum.md)
 
